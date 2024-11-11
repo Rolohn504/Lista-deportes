@@ -464,3 +464,41 @@ http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/87610
 #EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="ESPAÑA",ESP - M. Deportes (TV)(1080)
 http://tv.zapping.life:80#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="ESPAÑA",ESP - Teledeporte (TV)(1080)
 http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/824380/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8199
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga Campeones (T)(720)" tvg-logo="http://23.153.216.121:25461/images/c46dc330bf804aaca0ff4c8a95bf6abe.png" group-title="ESPAÑA",ESP - Movistar Liga Campeones (T)(720)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8213
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Formula 1 (T)(720)" tvg-logo="http://23.153.216.121:25461/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="ESPAÑA",ESP - Movistar Formula 1 (T)(720)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8212
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="ESPAÑA",ESP - M. Golf (TV)(1080)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8202
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="ESPAÑA",ESP - M. Deportes (TV)(1080)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8199
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 1 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/5019948ec61d43f5f92858f06537aef1.png" group-title="ESPAÑA",ESP - Eurosport 1 (TV)(720)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8180
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 2 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/111256bc3d526aa689154822101f20a3.png" group-title="ESPAÑA",ESP - Eurosport 2 (TV)(720)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8181
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Barca TV (T)(720)" tvg-logo="http://23.153.216.121:25461/images/86a892c3e955eafb4f58bb24b5882113.png" group-title="ESPAÑA",ESP - Barca TV (T)(720)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8149
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #Vamos (T)(720)" tvg-logo="http://23.153.216.121:25461/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="ESPAÑA",ESP - #Vamos (T)(720)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8133
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #Vamos (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/071331bfe2ef65c648c23a23720c1c7e.png" group-title="ESPAÑA",ESP - #Vamos (TV)(1080)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/8134
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (Orange)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (Orange)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/95767
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD (HEVC)" tvg-logo="http://swedtv.vip/logos/spain/EU_Espana_deportes_futbol/M_Liga_de_Campeones.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones FHD (HEVC)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/95768
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 3 FHD (Solo Eventos)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/95774
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 4 FHD (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 4 FHD (Solo Eventos)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/95776
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_5.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 5 SD (Solo Eventos)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/95777
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 6 (Solo Eventos)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 6 (Solo Eventos)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/95778
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 8 (Solo Eventos)" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="EVENTOS PPV MUNDIAL",SP: ES: M. Liga de Campeones 8 (Solo Eventos)
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/95780
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANjec5xXfqRvHlG1BRCE7KN8jhTtbE1jwDvq0Ep2-pccvQWN1sjXBDxP8xutJ8AvUok.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN 1
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/94464
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1" tvg-logo="https://logos.xbots.com.mx/307521.png" group-title="EVENTOS PPV MUNDIAL",ES | DAZN F1
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/94466
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn La Liga  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="EVENTOS PPV MUNDIAL",ES | Dazn La Liga  HD
+http://tv.zapping.life:8080/WilsonPaccha2IPTVCLUB/VPdzePUnhe/94467
